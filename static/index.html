@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Agent V2</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar / Chat Area -->
+        <div class="sidebar">
+            <div class="header">
+                <h1>Search Agent</h1>
+                <div class="status-indicator" id="connection-status">Disconnected</div>
+            </div>
+            
+            <div class="chat-container" id="chat-container">
+                <div class="message system">
+                    Welcome! Enter a topic to start researching.
+                </div>
+            </div>
+
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="Enter topic or question..." autocomplete="off">
+                <button id="send-btn">Send</button>
+            </div>
+            
+            <div class="controls">
+                <a href="/download" class="btn secondary" target="_blank">Download Report</a>
+            </div>
+        </div>
+
+        <!-- Main Dashboard -->
+        <div class="main-content">
+            <!-- Layers Visualization -->
+            <div class="section layers-section">
+                <h2>Agent Layers</h2>
+                <div class="layers-grid">
+                    <div class="layer-card" id="layer-perception">
+                        <div class="layer-icon">👁️</div>
+                        <h3>Perception</h3>
+                        <div class="layer-status">Idle</div>
+                        <div class="layer-details"></div>
+                    </div>
+                    <div class="layer-card" id="layer-memory">
+                        <div class="layer-icon">🧠</div>
+                        <h3>Memory</h3>
+                        <div class="layer-status">Idle</div>
+                        <div class="layer-details"></div>
+                    </div>
+                    <div class="layer-card" id="layer-decision">
+                        <div class="layer-icon">⚖️</div>
+                        <h3>Decision</h3>
+                        <div class="layer-status">Idle</div>
+                        <div class="layer-details"></div>
+                    </div>
+                    <div class="layer-card" id="layer-action">
+                        <div class="layer-icon">⚡</div>
+                        <h3>Action</h3>
+                        <div class="layer-status">Idle</div>
+                        <div class="layer-details"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Live Logs -->
+            <div class="section logs-section">
+                <h2>Live Logs</h2>
+                <div class="terminal" id="terminal-logs">
+                    <!-- Logs will appear here -->
+                </div>
+            </div>
+
+            <!-- Resources -->
+            <div class="section resources-section">
+                <h2>Collected Resources</h2>
+                <div class="resources-grid" id="resources-grid">
+                    <!-- Resource cards will appear here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

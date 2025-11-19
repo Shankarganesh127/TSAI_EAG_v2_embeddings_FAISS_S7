@@ -1,0 +1,25 @@
+[project]
+name = "eag-v2-search-data-s7"
+version = "0.1.0"
+description = "Search Agent with UI and 4-layer architecture"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp",
+    "fastapi",
+    "uvicorn",
+    "websockets",
+    "ddgs",
+    "beautifulsoup4",
+    "faiss-cpu",
+    "numpy",
+    "openai",
+    "python-dotenv",
+    "pillow",
+    "markitdown",
+    "google-genai",
+    "requests",
+    "pydantic",
+    "tqdm",
+    "typer"
+]
