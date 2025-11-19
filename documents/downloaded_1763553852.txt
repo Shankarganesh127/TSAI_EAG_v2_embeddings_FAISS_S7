@@ -1,0 +1,189 @@
+Source: https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930
+
+Responding to the climate impact of generative AI | MIT News | Massachusetts Institute of Technology
+Skip to content ↓
+Massachusetts Institute of Technology
+MIT Top Menu↓
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+More ↓
+Search MIT
+Search websites, locations, and people
+See More Results
+Suggestions or feedback?
+MIT News | Massachusetts Institute of Technology - On Campus and Around the world
+Subscribe to MIT News newsletter
+Browse
+Enter keywords to search for news articles:
+Submit
+Browse By
+Topics
+View All →
+Explore:
+Machine learning
+Sustainability
+Startups
+Black holes
+Classes and programs
+Departments
+View All →
+Explore:
+Aeronautics and Astronautics
+Brain and Cognitive Sciences
+Architecture
+Political Science
+Mechanical Engineering
+Centers, Labs, & Programs
+View All →
+Explore:
+Abdul Latif Jameel Poverty Action Lab (J-PAL)
+Picower Institute for Learning and Memory
+Media Lab
+Lincoln Laboratory
+Schools
+School of Architecture + Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+View all news coverage of MIT in the media →
+Listen to audio content from MIT News →
+Subscribe to MIT newsletter →
+Close
+Breadcrumb
+MIT News
+Responding to the climate impact of generative AI
+Responding to the climate impact of generative AI
+Explosive growth of AI data centers is expected to increase greenhouse gas emissions. Researchers are now seeking solutions to reduce these environmental harms.
+Adam Zewe
+|
+MIT News
+Publication Date:
+September 30, 2025
+Press Inquiries
+Press Contact:
+MIT Media Relations
+Email:
+expertrequests@mit.edu
+Phone:
+617-253-2700
+Close
+Caption:
+“We are on a path where the effects of climate change won’t be fully known until it is too late to do anything about it,” says Jennifer Turliuk MBA ’25, who is working to help policymakers, scientists, and enterprises consider the multifaceted costs and benefits of generative AI. “This is a once-in-a-lifetime opportunity to innovate and make AI systems less carbon-intense.”
+Credits:
+Credit: iStock
+Previous image
+Next image
+Audio
+In part 2 of our two-part series on generative artificial intelligence’s environmental impacts, MIT News explores some of the ways experts are working to reduce the technology’s carbon footprint.The energy demands of generative AI are expected to continue increasing dramatically over the next decade.For instance, an April 2025 report from the International Energy Agency predicts that the global electricity demand from data centers, which house the computing infrastructure to train and deploy AI models, will more than double by 2030, to around 945 terawatt-hours. While not all operations performed in a data center are AI-related, this total amount is slightly more than the energy consumption of Japan.Moreover, an August 2025 analysis from Goldman Sachs Research forecasts that about 60 percent of the increasing electricity demands from data centers will be met by burning fossil fuels, increasing global carbon emissions by about 220 million tons. In comparison, driving a gas-powered car for 5,000 miles produces about 1 ton of carbon dioxide.These statistics are staggering, but at the same time, scientists and engineers at MIT and around the world are studying innovations and interventions to mitigate AI’s ballooning carbon footprint, from boosting the efficiency of algorithms to rethinking the design of data centers.Considering carbon emissionsTalk of reducing generative AI’s carbon footprint is typically centered on “operational carbon” — the emissions used by the powerful processors, known as GPUs, inside a data center. It often ignores “embodied carbon,” which are emissions created by building the data center in the first place, says Vijay Gadepally, senior scientist at MIT Lincoln Laboratory, who leads research projects in the Lincoln Laboratory Supercomputing Center.Constructing and retrofitting a data center, built from tons of steel and concrete and filled with air conditioning units, computing hardware, and miles of cable, consumes a huge amount of carbon. In fact, the environmental impact of building data centers is one reason companies like Meta and Google are exploring more sustainable building materials. (Cost is another factor.)Plus, data centers are enormous buildings — the world’s largest, the China Telecomm-Inner Mongolia Information Park, engulfs roughly 10 million square feet — with about 10 to 50 times the energy density of a normal office building, Gadepally adds. “The operational side is only part of the story. Some things we are working on to reduce operational emissions may lend themselves to reducing embodied carbon, too, but we need to do more on that front in the future,” he says.Reducing operational carbon emissionsWhen it comes to reducing operational carbon emissions of AI data centers, there are many parallels with home energy-saving measures. For one, we can simply turn down the lights.“Even if you have the worst lightbulbs in your house from an efficiency standpoint, turning them off or dimming them will always use less energy than leaving them running at full blast,” Gadepally says.In the same fashion, research from the Supercomputing Center has shown that “turning down” the GPUs in a data center so they consume about three-tenths the energy has minimal impacts on the performance of AI models, while also making the hardware easier to cool.Another strategy is to use less energy-intensive computing hardware.Demanding generative AI workloads, such as training new reasoning models like GPT-5, usually need many GPUs working simultaneously. The Goldman Sachs analysis estimates that a state-of-the-art system could soon have as many as 576 connected GPUs operating at once.But engineers can sometimes achieve similar results by reducing the precision of computing hardware, perhaps by switching to less powerful processors that have been tuned to handle a specific AI workload.There are also measures that boost the efficiency of training power-hungry deep-learning models before they are deployed.Gadepally’s group found that about half the electricity used for training an AI model is spent to get the last 2 or 3 percentage points in accuracy. Stopping the training process early can save a lot of that energy.“There might be cases where 70 percent accuracy is good enough for one particular application, like a recommender system for e-commerce,” he says.Researchers can also take advantage of efficiency-boosting measures.For instance, a postdoc in the Supercomputing Center realized the group might run a thousand simulations during the training process to pick the two or three best AI models for their project.By building a tool that allowed them to avoid about 80 percent of those wasted computing cycles, they dramatically reduced the energy demands of training with no reduction in model accuracy, Gadepally says.Leveraging efficiency improvementsConstant innovation in computing hardware, such as denser arrays of transistors on semiconductor chips, is still enabling dramatic improvements in the energy efficiency of AI models.Even though energy efficiency improvements have been slowing for most chips since about 2005, the amount of computation that GPUs can do per joule of energy has been improving by 50 to 60 percent each year, says Neil Thompson, director of the FutureTech Research Project at MIT’s Computer Science and Artificial Intelligence Laboratory and a principal investigator at MIT’s Initiative on the Digital Economy.“The still-ongoing ‘Moore’s Law’ trend of getting more and more transistors on chip still matters for a lot of these AI systems, since running operations in parallel is still very valuable for improving efficiency,” says Thomspon.Even more significant, his group’s research indicates that efficiency gains from new model architectures that can solve complex problems faster, consuming less energy to achieve the same or better results, is doubling every eight or nine months.Thompson coined the term “negaflop” to describe this effect. The same way a “negawatt” represents electricity saved due to energy-saving measures, a “negaflop” is a computing operation that doesn’t need to be performed due to algorithmic improvements.These could be things like “pruning” away unnecessary components of a neural network or employing compression techniques that enable users to do more with less computation.“If you need to use a really powerful model today to complete your task, in just a few years, you might be able to use a significantly smaller model to do the same thing, which would carry much less environmental burden. Making these models more efficient is the single-most important thing you can do to reduce the environmental costs of AI,” Thompson says.Maximizing energy savingsWhile reducing the overall energy use of AI algorithms and computing hardware will cut greenhouse gas emissions, not all energy is the same, Gadepally adds.“The amount of carbon emissions in 1 kilowatt hour varies quite significantly, even just during the day, as well as over the month and year,” he says.Engineers can take advantage of these variations by leveraging the flexibility of AI workloads and data center operations to maximize emissions reductions. For instance, some generative AI workloads don’t need to be performed in their entirety at the same time.Splitting computing operations so some are performed later, when more of the electricity fed into the grid is from renewable sources like solar and wind, can go a long way toward reducing a data center’s carbon footprint, says Deepjyoti Deka, a research scientist in the MIT Energy Initiative.Deka and his team are also studying “smarter” data centers where the AI workloads of multiple companies using the same computing equipment are flexibly adjusted to improve energy efficiency.“By looking at the system as a whole, our hope is to minimize energy use as well as dependence on fossil fuels, while still maintaining reliability standards for AI companies and users,” Deka says.He and others at MITEI are building a flexibility model of a data center that considers the differing energy demands of training a deep-learning model versus deploying that model. Their hope is to uncover the best strategies for scheduling and streamlining computing operations to improve energy efficiency.The researchers are also exploring the use of long-duration energy storage units at data centers, which store excess energy for times when it is needed.With these systems in place, a data center could use stored energy that was generated by renewable sources during a high-demand period, or avoid the use of diesel backup generators if there are fluctuations in the grid.“Long-duration energy storage could be a game-changer here because we can design operations that really change the emission mix of the system to rely more on renewable energy,” Deka says.In addition, researchers at MIT and Princeton University are developing a software tool for investment planning in the power sector, called GenX, which could be used to help companies determine the ideal place to locate a data center to minimize environmental impacts and costs.Location can have a big impact on reducing a data center’s carbon footprint. For instance, Meta operates a data center in Lulea, a city on the coast of northern Sweden where cooler temperatures reduce the amount of electricity needed to cool computing hardware.Thinking farther outside the box (way farther), some governments are even exploring the construction of data centers on the moon where they could potentially be operated with nearly all renewable energy.AI-based solutionsCurrently, the expansion of renewable energy generation here on Earth isn’t keeping pace with the rapid growth of AI, which is one major roadblock to reducing its carbon footprint, says Jennifer Turliuk MBA ’25, a short-term lecturer, former Sloan Fellow, and former practice leader of climate and energy AI at the Martin Trust Center for MIT Entrepreneurship.The local, state, and federal review processes required for a new renewable energy projects can take years.Researchers at MIT and elsewhere are exploring the use of AI to speed up the process of connecting new renewable energy systems to the power grid.For instance, a generative AI model could streamline interconnection studies that determine how a new project will impact the power grid, a step that often takes years to complete.And when it comes to accelerating the development and implementation of clean energy technologies, AI could play a major role.“Machine learning is great for tackling complex situations, and the electrical grid is said to be one of the largest and most complex machines in the world,” Turliuk adds.For instance, AI could help optimize the prediction of solar and wind energy generation or identify ideal locations for new facilities.It could also be used to perform predictive maintenance and fault detection for solar panels or other green energy infrastructure, or to monitor the capacity of transmission wires to maximize efficiency.By helping researchers gather and analyze huge amounts of data, AI could also inform targeted policy interventions aimed at getting the biggest “bang for the buck” from areas such as renewable energy, Turliuk says.To help policymakers, scientists, and enterprises consider the multifaceted costs and benefits of AI systems, she and her collaborators developed the Net Climate Impact Score.The score is a framework that can be used to help determine the net climate impact of AI projects, considering emissions and other environmental costs along with potential environmental benefits in the future.At the end of the day, the most effective solutions will likely result from collaborations among companies, regulators, and researchers, with academia leading the way, Turliuk adds.“Every day counts. We are on a path where the effects of climate change won’t be fully known until it is too late to do anything about it. This is a once-in-a-lifetime opportunity to innovate and make AI systems less carbon-intense,” she says.
+Share this news article on:
+X
+Facebook
+LinkedIn
+Reddit
+Print
+Related Links
+Deepjyoti DekaVijay GadepallyNeil ThompsonJennifer TurliukMIT Energy InitiativeLincoln LaboratoryComputer Science and Artificial Intelligence LaboratoryDepartment of Electrical Engineering and Computer ScienceSchool of EngineeringMIT Sloan School of ManagementMIT Schwarzman College of Computing
+Related Topics
+Sustainable computing
+Research
+Computer science and technology
+Artificial intelligence
+Machine learning
+Algorithms
+Energy
+Climate change
+Supercomputing
+Energy storage
+Emissions
+Infrastructure
+Electrical engineering and computer science (EECS)
+MIT Energy Initiative
+Lincoln Laboratory
+Computer Science and Artificial Intelligence Laboratory (CSAIL)
+School of Engineering
+MIT Sloan School of Management
+MIT Schwarzman College of Computing
+Related Articles
+Responding to the climate impact of generative AI
+Explained: Generative AI’s environmental impact
+Confronting the AI/energy conundrum
+The multifaceted challenge of powering AI
+Q&A: The climate impact of generative AI
+Previous item
+Next item
+More MIT News
+A new take on carbon capture
+Mantel, founded by MIT alumni, developed a system that captures CO2 from factories and power plants while delivering steam to customers.
+Read full story →
+New AI agent learns to use CAD to create 3D objects from sketches
+The virtual VideoCAD tool could boost designers’ productivity and help train engineers learning computer-aided design.
+Read full story →
+An improved way to detach cells from culture surfaces
+The approach could transform large-scale biomanufacturing by enabling automated and contamination-conscious workflows for cell therapies, tissue engineering, and regenerative medicine.
+Read full story →
+The science of consciousness
+Through the MIT Consciousness Club, professors Matthias Michel and Earl Miller are exploring how neurological activity gives rise to human experience.
+Read full story →
+MIT Energy Initiative conference spotlights research priorities amidst a changing energy landscape
+Industry leaders agree collaboration is key to advancing critical technologies.
+Read full story →
+Introducing the MIT-GE Vernova Climate and Energy Alliance
+Five-year collaboration between MIT and GE Vernova aims to accelerate the energy transition and scale new innovations.
+Read full story →
+More news on MIT News homepage →
+More about MIT News at Massachusetts Institute of Technology
+This website is managed by the MIT News Office, part of the Institute Office of Communications.
+News by Schools/College:
+School of Architecture and Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+MIT Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+Resources:
+About the MIT News Office
+MIT News Press Center
+Terms of Use
+Press Inquiries
+Filming Guidelines
+RSS Feeds
+Tools:
+Subscribe to MIT Daily/Weekly
+Subscribe to press releases
+Submit campus news
+Guidelines for campus news contributors
+Guidelines on generative AI
+Massachusetts Institute of Technology
+MIT Top Level Links:
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+Join us in building a better world.
+Massachusetts Institute of Technology77 Massachusetts Avenue, Cambridge, MA, USA
+Recommended Links:
+Visit
+Map (opens in new window)
+Events (opens in new window)
+People (opens in new window)
+Careers (opens in new window)
+Contact
+Privacy
+Accessibility
+Social Media Hub
+MIT on X
+MIT on Facebook
+MIT on YouTube
+MIT on Instagram

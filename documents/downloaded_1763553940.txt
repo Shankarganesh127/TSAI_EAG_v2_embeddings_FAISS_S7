@@ -1,0 +1,353 @@
+Source: https://cepr.org/voxeu/columns/global-impact-ai-mind-gap
+
+The global impact of AI: Mind the gap | CEPR
+Skip to main content
+Mobile menu
+Search
+VoxEU
+Columns
+Trump and Tariffs
+Blogs&Reviews
+VoxTalks
+VideoVox
+VoxEU Debates
+About VoxEU
+Research
+Programme Areas
+Research Policy Networks (RPNs)
+Research Projects and Networks
+Research Policies
+Data Sets
+Publications
+Publication Series
+Books and Reports
+Discussion Papers
+Covid Economics Papers
+Policy Papers
+Economic Policy Journal
+Search All Publications
+Archive
+Events
+Calls for Papers
+Forthcoming Events
+Past Events
+Event Series
+Audio and video
+Search all multimedia content
+VoxTalks
+VideoVox
+Vox Webcasts
+Webinar Videos
+About CEPR
+People
+News
+Press
+Governance
+Support CEPR
+Partners
+Jobs at CEPR
+Summer Reading 2025
+Themes
+Search
+Themes
+Themes
+Key Themes
+Artificial Intelligence
+Central Banking
+Climate Change
+Competition Policy
+Development & Growth
+Economic History
+Energy
+EU Economic Architecture
+Inflation
+Political Economy
+Poverty and income inequality
+Sustainable Finance
+Ukraine Initiative
+Women in Economics
+Other Themes
+Business Cycles
+Covid 19
+Exchange Rates
+Finance & Fintech
+Health Economics
+International Finance
+International Trade
+Labour Markets
+Migration
+Monetary Policy
+Productivity and Innovation
+Taxation
+Focus On
+The Economic Consequences of the War
+Trump & Tariffs
+Main navigation
+VoxEU
+Columns
+Trump and Tariffs
+Blogs&Reviews
+VoxTalks
+VideoVox
+VoxEU Debates
+About VoxEU
+Research
+Publications
+Publication Series
+Books and Reports
+Discussion Papers
+About CEPR Discussion Papers
+Discussion Paper Subscriptions
+Covid Economics Papers
+Policy Papers
+Economic Policy Journal
+Search All Publications
+Archive
+CEPR Bulletin
+Events
+Audio and video
+Search all multimedia content
+VoxTalks
+VideoVox
+Vox Webcasts
+Webinar Videos
+About CEPR
+People
+President and Vice Presidents
+Distinguished Fellows
+Programme Directors
+RPN Leaders
+CEPR Staff
+Advisory Board
+News
+Press
+Governance
+Support CEPR
+Partners
+Jobs at CEPR
+Summer Reading 2025
+Secondary Menu
+CEPR Offices
+User account menu
+Log in
+Secondary Menu
+CEPR Offices
+User account menu
+Log in
+Themes
+Key Themes
+Artificial Intelligence
+Central Banking
+Climate Change
+Competition Policy
+Development & Growth
+Economic History
+Energy
+EU Economic Architecture
+Inflation
+Political Economy
+Poverty and income inequality
+Sustainable Finance
+Ukraine Initiative
+Women in Economics
+Other Themes
+Business Cycles
+Covid 19
+Exchange Rates
+Finance & Fintech
+Health Economics
+International Finance
+International Trade
+Labour Markets
+Migration
+Monetary Policy
+Productivity and Innovation
+Taxation
+Focus On
+The Economic Consequences of the War
+Trump & Tariffs
+Search the site
+Search
+/
+VoxEU
+/
+Columns
+In this section
+Columns
+Trump and Tariffs
+Blogs and Reviews
+VoxTalks
+VoxEU Videos
+VoxEU Debates
+About VoxEU
+VoxEU Column
+Development & Growth
+Productivity and Innovation
+The global impact of AI: Mind the gap
+Eugenio Cerutti
+Antonio Garcia Pascual
+Yosuke Kido
+Longji Li
+Giovanni Melina
+Marina M. Tavares
+Philippe Wingender
+/
+31 May 2025
+Artificial intelligence is widely seen as a transformative force for productivity and innovation. Yet, its macroeconomic implications remain uncertain, especially from a global perspective. This column shows how structural differences in AI exposure, preparedness, and access in advanced economies, emerging markets, and low-income countries shape the distribution of AI-induced productivity gains. While improvements in AI preparedness and access can mitigate some disparities between countries, they are unlikely to fully offset them. AI-driven productivity gains could reduce the traditional role of exchange rate adjustments due to AI’s large impact on the non-tradable sector.
+Authors
+Eugenio Cerutti
+Antonio Garcia Pascual
+Yosuke Kido
+Longji Li
+Giovanni Melina
+Marina M. Tavares
+Philippe Wingender
+Share
+Twitter
+Facebook
+LinkedIn
+The magnitude of growth in total factor productivity (TFP) driven by AI remains a highly debated topic, marked by significant uncertainty. Focusing on the US, Acemoglu (2025) cautions that productivity gains may fall short of expectations, particularly when AI encounters complex, context-specific tasks. Aghion and Bunel (2024), by contrast, present a more optimistic view, highlighting AI’s potential to drive growth through automation and accelerated idea generation.
+Building on their insights and a rapidly growing literature, our new research (Cerutti et al. 2025) takes a global perspective. It links AI exposure, preparedness, and access to TFP growth driven by AI adoption. To gauge AI’s impact on TFP in advanced economies, emerging markets and low-income countries, we combine microdata on the exposure of task- and sectoral-level jobs to AI with country-specific measures of AI preparedness and assumptions on AI access.
+Determinants of AI adoption
+The global adoption of AI technologies has revealed significant disparities among advanced economies, emerging markets, and low-income countries. These differences arise from structural, economic, and institutional factors, including access to high-quality data and the presence of supportive regulatory frameworks. While some nations are positioned to invest substantially in AI-driven innovation, others find it challenging to implement even basic AI solutions. Consequently, the widening gaps in competitiveness, productivity, and human capital development may exacerbate existing inequalities and generate new ones.
+Three critical elements influence country-level outcomes.
+Exposure refers to the share of jobs and sectors susceptible to AI-driven transformation. Task-based analyses show that roughly 60% of jobs in advanced economies are highly exposed to AI, compared to 42% in emerging markets and just 26% in low-income countries (Pizzinelli 2023, Cazzaniga et al. 2024).
+Preparedness reflects a country’s institutional and digital readiness. The IMF AI Preparedness Index (Cazzaniga et al. 2024) reveals that advanced economies generally benefit from strong infrastructure, skilled labour, and robust governance frameworks, while many low-income countries lack even the basic foundations to absorb AI technologies (Figure 1).
+Access captures the availability of key AI enablers: semiconductors, computer power, data infrastructure, and global partnerships. Here, too, disparities can be stark. While the US and China lead in frontier capabilities, emerging markets and low-income countries face growing constraints amid rising geopolitical tensions and export controls (Hawkins and Leonard 2025, European Commission 2025).
+Figure 1 AI preparedness index and employment share in high-exposure occupations
+Notes: The plot includes 125 countries: 32 advanced economies, 56 emerging markets, and 37 low-income countries. The red reference lines are derived from the median values of the AI preparedness index and high-exposure employment. Circles represent the average values for each respective country group. Crosses denote the average values for each corresponding country group: AEs = advanced economies; EMs = emerging markets; LICs = low-income countries. Country labels use International Organization for Standardization (ISO) country codes.
+Source: Cazzaniga et al. (2024).
+Modelling global AI impacts
+To quantify these dynamics, we employ the IMF’s Global Integrated Monetary and Fiscal model, a dynamic general equilibrium framework with rich policy and behavioural channels (Freedman et al. 2010, Kumhof et al. 2010). We use an enhanced version of the model (GIMF-GVC), which features three sectors in each region – the non-tradables, tradables, and AI-intensive sectors – and incorporates global value chains.
+AI shocks enter the model as  TFP gains, scaled by each region’s level of exposure, preparedness, and access. This structure allows for forward-looking behaviour, endogenous investment, and meaningful cross-country spillovers, making it well suited to assess AI’s global macroeconomic footprint. Our version of the model also incorporates the global economy comprehensively by including seven large regions, as well as the rest of the world.
+Macroeconomic effects
+The results reveal a stark asymmetry in outcomes. In a high TFP growth scenario, which assumes no restrictions to AI-specific technologies in all regions, global productivity rises by 2.4% over ten years, lifting world GDP by nearly 4%. Under a low TFP growth scenario, which also assumes no restrictions to AI-specific technologies but envisages more conservative productivity gains, gains are limited to 0.8% and 1.3% over ten years, respectively.
+Yet behind these global averages lie significant divergences (Figure 2). The US – which ranks highest in both AI preparedness and exposure – experiences output gains of 5.4% in the high-productivity-growth scenario. Other advanced economies, including Europe and Japan, follow closely. By contrast, low-income countries see output gains of just 2.7%, and emerging markets range from 3.0%–3.5%, reflecting weaker structural readiness and lower AI exposure.
+Figure 2 Cross-country differences in GDP impacts in baseline scenarios
+Notes: Panel (a) shows the deviations of real GDP from the steady state for the high TFP growth baseline scenario after 10 years. Panel (b) shows the deviations of real GDP from the steady state for the low TFP growth baseline scenario after 10 years. The global averages are shown as horizontal lines. EMA = emerging market economies Asia, Central, Asia, Russia, etc.; EML = emerging market economies Latin America, Middle East, Africa, etc.; EUS = EU and Switzerland; LIC = low-income countries; OAD = other advanced economies; ROW = rest of the world. See Cerutti et al. (2025) for a detailed composition of the countries in each group.
+Source: Cerutti et al. (2025).
+Inflation rises modestly in the short run as demand outpaces supply, but later declines as AI-driven productivity improves supply capacity. Central banks respond with modest tightening. Interestingly, real exchange rates in advanced economies depreciate, contrary to traditional expectations. This reflects large productivity gains in the non-tradable sectors, such as healthcare and education, creating an ‘inverse Balassa-Samuelson effect’ that enhances competitiveness in advanced economies (Figure 3).
+Figure 3 Changes in real effective exchange rates and non-tradable sector TFP (10-year horizon)
+Notes: The values are shown as deviations of high TFP growth scenario outcomes from the steady state after 10 years. See Annex I of our paper for the list of ISIC sectors included in the non-tradable sector. EMA = emerging market economies Asia, Central, Asia, Russia, etc.; EML = emerging market economies Latin America, Middle East, Africa, etc.; EUS = EU and Switzerland; LIC = low-income countries; OAD = other advanced economies; and ROW = rest of the world. See Cerutti et al. (2025) for a detailed composition of the countries in each group.
+Source: Cerutti et al. (2025).
+Policy matters but cannot fully close the gap
+Can policy mitigate these disparities? Two alternative scenarios suggest that it can – but only to a degree. Importantly, policy can also aggravate these disparities.
+In a limited AI access scenario – where emerging markets (excluding China) and low-income countries face continued barriers to advanced AI technologies – output growth in these countries declines by about 1 percentage point relative to the baseline (Figure 4). This highlights how access to computer power, chips, and data remains a hard constraint on inclusive AI adoption.
+An enhanced AI preparedness scenario assumes that emerging markets and low-income countries improve institutions and digital infrastructure to match the best performers in their peer groups. This raises output, particularly in AI-intensive sectors, but cross-country inequality persists, even under this more optimistic reform path.
+Figure 4 Cross-country differences of GDP in the alternative scenarios
+Notes: Panel (a) shows the deviations of real GDP from the steady state for the limited AI access scenario after 10 years. Panel (b) shows the deviations of real GDP from the steady state for the enhanced AI preparedness scenario after 10 years. The global averages are shown as horizontal lines. EMA = emerging market economies Asia, Central, Asia, Russia, etc.; EML = emerging market economies Latin America, Middle East, Africa, etc.; EUS = EU and Switzerland; LIC = low-income countries; OAD = other advanced economies; and ROW = rest of the world. See Cerutti et al. (2025) for a detailed composition of the countries in each group.Source: Cerutti et al. (2025).
+Conclusions
+These findings suggest that AI readiness is both a growth imperative and a global equity issue. For advanced economies, the policy focus should be on AI governance, innovation ecosystems, and responsible AI deployment. For emerging markets and low-income countries, foundational investments in digital infrastructure, education, and data access are essential. Public investment is particularly important in high social return areas like healthcare, education, and public administration, where private markets may underinvest.
+There are grounds for optimism. Technological breakthroughs such as DeepSeek’s efficient large language models show that frontier innovation is not necessarily resource-intensive. Open-source models, combined with targeted reforms, can lower barriers for the developing world. The success of Kenya’s M-Pesa, which leapfrogged traditional banking infrastructure to create a thriving fintech ecosystem, illustrates the potential of well-targeted digital innovation in lower-income settings.
+Still, without sustained efforts to close gaps in readiness and access, AI could become a new fault line in global development, reinforcing – not reversing – cross-country inequality.
+Authors’ note: The views expressed in this column are the authors’ own and do not represent the views of the International Monetary Fund, its Executive Board, or IMF management.
+References
+Acemoglu, D (2025), “The simple macroeconomics of AI”, Economic Policy 40(121): 13–58.
+Aghion, P, and S Bunel (2024), “AI and growth: Where do we stand?”, policy note.
+Hawkins, M, and J Leonard (2025), “Biden to further limit Nvidia AI chip exports in final push”, Bloomberg.com, 9 January.
+Cazzaniga, M, M F Jaumotte, L Li, M G Melina, A J Panton, C Pizzinelli, E Rockall, and M M Tavares (2024), “Gen-AI: Artificial intelligence and the future of work”, IMF Staff Discussion Note SDN2024/001.
+Cerutti, E, A Garcia Pascual, Y Kido, L Li, G Melina, M M Tavares, and P Wingender (2025), “The global impact of AI: Mind the gap”, IMF Working Paper No. 25/76.
+European Commission (2025), “Commission calls on Member States to review outbound investments and assess risks to economic security”, press release, 15 January.
+Freedman, C, M Kumhof, D Laxton, D Muir, and S Mursula (2010), “Global effects of fiscal stimulus during the crisis”, Journal of Monetary Economics 57(5): 506–26.
+Kumhof, M, D Muir, S Mursula, and D Laxton (2010), “The Global Integrated Monetary and Fiscal Model (GIMF) – theoretical structure”, IMF Working Paper 10/34.
+Pizzinelli, C, A Panton, M M Tavares, M Cazzaniga, and L Li (2023), “Labor market exposure to AI: Cross-country differences and distributional implications”, IMF Working Paper 2023/216.
+Authors
+Eugenio Cerutti
+Chief of the Macro-Financial Unit, SPR
+International Monetary Fund
+Antonio Garcia Pascual
+Deputy Division Chief
+International Monetary Fund
+Yosuke Kido
+Economist
+International Monetary Fund
+Longji Li
+Research Officer
+International Monetary Fund
+Giovanni Melina
+Deputy Division Chief, Structural and Climate Policy division
+International Monetary Fund
+Marina M. Tavares
+Senior Economist
+International Monetary Fund
+Philippe Wingender
+Senior Economist
+International Monetary Fund
+Themes
+Development & Growth
+Productivity and Innovation
+Keywords
+Artificial intelligence
+Productivity growth
+Share
+Twitter
+Facebook
+LinkedIn
+VoxEU Column
+Should AI stay or should AI go: The promises and perils of AI for productivity and growth
+Francesco Filippucci
+Peter Gal
+Cecilia Jona-Lasinio
+Alvaro Leandro
+giuseppe nicoletti
+2 May 2024
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+Productivity and Innovation
+VoxEU Column
+The local effects of artificial intelligence labour investments: Evidence from the municipal bond market
+Lefteris Andreadis
+Emmanouil Chatzikonstantinou
+Elena Kalotychou
+Christodoulos Louca
+Christos Makridis
+18 Apr 2025
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+Artificial Intelligence
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+Labour Markets
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+Productivity and Innovation
+VoxEU Column
+The impact of artificial intelligence on growth and employment
+Ethan Ilzetzki
+Suryaansh Jain
+20 Jun 2023
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+Labour Markets
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+Productivity and Innovation
+Themes & Current Issues
+Artificial Intelligence
+Business Cycles
+Central Banking
+Climate Change
+Competition Policy
+COVID-19
+Development & Growth
+Economic history
+Energy
+EU Economic Architecture
+Exchange Rates
+Finance and Fintech
+Financial Markets
+Financial Regulation and Banking
+Health Economics
+Inflation
+International Finance
+International trade
+Labour Markets
+Migration
+Monetary Policy
+Political Economy
+Poverty and Income Inequality
+Productivity and Innovation
+Taxation
+Ukraine Initiative
+Women in Economics
+Sign up to our newsletter
+follow us
+Copyright 2025 CEPR /designbysoapbox.com
+Contact Us
+Cookies
+Privacy Policy
+RSS Feeds

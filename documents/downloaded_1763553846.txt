@@ -1,0 +1,195 @@
+Source: https://news.mit.edu/2025/introducing-mit-generative-ai-impact-consortium-0203
+
+Introducing the MIT Generative AI Impact Consortium | MIT News | Massachusetts Institute of Technology
+Skip to content ↓
+Massachusetts Institute of Technology
+MIT Top Menu↓
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+More ↓
+Search MIT
+Search websites, locations, and people
+See More Results
+Suggestions or feedback?
+MIT News | Massachusetts Institute of Technology - On Campus and Around the world
+Subscribe to MIT News newsletter
+Browse
+Enter keywords to search for news articles:
+Submit
+Browse By
+Topics
+View All →
+Explore:
+Machine learning
+Sustainability
+Startups
+Black holes
+Classes and programs
+Departments
+View All →
+Explore:
+Aeronautics and Astronautics
+Brain and Cognitive Sciences
+Architecture
+Political Science
+Mechanical Engineering
+Centers, Labs, & Programs
+View All →
+Explore:
+Abdul Latif Jameel Poverty Action Lab (J-PAL)
+Picower Institute for Learning and Memory
+Media Lab
+Lincoln Laboratory
+Schools
+School of Architecture + Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+View all news coverage of MIT in the media →
+Listen to audio content from MIT News →
+Subscribe to MIT newsletter →
+Close
+Breadcrumb
+MIT News
+Introducing the MIT Generative AI Impact Consortium
+Introducing the MIT Generative AI Impact Consortium
+The consortium will bring researchers and industry together to focus on impact.
+Liam McDonnell
+|
+Office of Innovation and Strategy
+Publication Date:
+February 3, 2025
+Press Inquiries
+Press Contact:
+Liam
+McDonnell
+Email:
+liammcd@mit.edu
+Phone:
+781-267-8204
+MIT Office of Innovation
+Close
+Caption:
+The MIT Generative AI Impact Consortium aims to harness the transformative power of artificial intelligence for societal good, tackling challenges before they shape the future in unintended ways.
+Credits:
+Image: Emily Dahl
+Previous image
+Next image
+From crafting complex code to revolutionizing the hiring process, generative artificial intelligence is reshaping industries faster than ever before — pushing the boundaries of creativity, productivity, and collaboration across countless domains.Enter the MIT Generative AI Impact Consortium, a collaboration between industry leaders and MIT’s top minds. As MIT President Sally Kornbluth highlighted last year, the Institute is poised to address the societal impacts of generative AI through bold collaborations. Building on this momentum and established through MIT’s Generative AI Week and impact papers, the consortium aims to harness AI’s transformative power for societal good, tackling challenges before they shape the future in unintended ways.“Generative AI and large language models [LLMs] are reshaping everything, with applications stretching across diverse sectors,” says Anantha Chandrakasan, dean of the School of Engineering and MIT’s chief innovation and strategy officer, who leads the consortium. “As we push forward with newer and more efficient models, MIT is committed to guiding their development and impact on the world.”Chandrakasan adds that the consortium’s vision is rooted in MIT’s core mission. “I am thrilled and honored to help advance one of President Kornbluth’s strategic priorities around artificial intelligence,” he says. “This initiative is uniquely MIT — it thrives on breaking down barriers, bringing together disciplines, and partnering with industry to create real, lasting impact. The collaborations ahead are something we’re truly excited about.”Developing the blueprint for generative AI’s next leapThe consortium is guided by three pivotal questions, framed by Daniel Huttenlocher, dean of the MIT Schwarzman College of Computing and co-chair of the GenAI Dean’s oversight group, that go beyond AI’s technical capabilities and into its potential to transform industries and lives:How can AI-human collaboration create outcomes that neither could achieve alone?What is the dynamic between AI systems and human behavior, and how do we maximize the benefits while steering clear of risks?How can interdisciplinary research guide the development of better, safer AI technologies that improve human life?Generative AI continues to advance at lightning speed, but its future depends on building a solid foundation. “Everybody recognizes that large language models will transform entire industries, but there's no strong foundation yet around design principles,” says Tim Kraska, associate professor of electrical engineering and computer science in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and co-faculty director of the consortium.“Now is a perfect time to look at the fundamentals — the building blocks that will make generative AI more effective and safer to use,” adds Kraska."What excites me is that this consortium isn’t just academic research for the distant future — we’re working on problems where our timelines align with industry needs, driving meaningful progress in real time," says Vivek F. Farias, the Patrick J. McGovern (1959) Professor at the MIT Sloan School of Management, and co-faculty director of the consortium.A “perfect match” of academia and industryAt the heart of the Generative AI Impact Consortium are six founding members: Analog Devices, The Coca-Cola Co., OpenAI, Tata Group, SK Telecom, and TWG Global. Together, they will work hand-in-hand with MIT researchers to accelerate breakthroughs and address industry-shaping problems.The consortium taps into MIT’s expertise, working across schools and disciplines — led by MIT’s Office of Innovation and Strategy, in collaboration with the MIT Schwarzman College of Computing and all five of MIT’s schools.“This initiative is the ideal bridge between academia and industry,” says Chandrakasan. “With companies spanning diverse sectors, the consortium brings together real-world challenges, data, and expertise. MIT researchers will dive into these problems to develop cutting-edge models and applications into these different domains.”Industry partners: Collaborating on AI’s evolutionAt the core of the consortium’s mission is collaboration — bringing MIT researchers and industry partners together to unlock generative AI’s potential while ensuring its benefits are felt across society.Among the founding members is OpenAI, the creator of the generative AI chatbot ChatGPT.“This type of collaboration between academics, practitioners, and labs is key to ensuring that generative AI evolves in ways that meaningfully benefit society,” says Anna Makanju, vice president of global impact at OpenAI, adding that OpenAI “is eager to work alongside MIT’s Generative AI Consortium to bridge the gap between cutting-edge AI research and the real-world expertise of diverse industries.”The Coca-Cola Co. recognizes an opportunity to leverage AI innovation on a global scale. “We see a tremendous opportunity to innovate at the speed of AI and, leveraging The Coca-Cola Company's global footprint, make these cutting-edge solutions accessible to everyone,” says Pratik Thakar, global vice president and head of generative AI. “Both MIT and The Coca-Cola Company are deeply committed to innovation, while also placing equal emphasis on the legally and ethically responsible development and use of technology.”For TWG Global, the consortium offers the ideal environment to share knowledge and drive advancements. “The strength of the consortium is its unique combination of industry leaders and academia, which fosters the exchange of valuable lessons, technological advancements, and access to pioneering research,” says Drew Cukor, head of data and artificial intelligence transformation. Cukor adds that TWG Global “is keen to share its insights and actively engage with leading executives and academics to gain a broader perspective of how others are configuring and adopting AI, which is why we believe in the work of the consortium.”The Tata Group views the collaboration as a platform to address some of AI’s most pressing challenges. “The consortium enables Tata to collaborate, share knowledge, and collectively shape the future of generative AI, particularly in addressing urgent challenges such as ethical considerations, data privacy, and algorithmic biases,” says Aparna Ganesh, vice president of Tata Sons Ltd.Similarly, SK Telecom sees its involvement as a launchpad for growth and innovation. Suk-geun (SG) Chung, SK Telecom executive vice president and chief AI global officer, explains, “Joining the consortium presents a significant opportunity for SK Telecom to enhance its AI competitiveness in core business areas, including AI agents, AI semiconductors, data centers (AIDC), and physical AI,” says Chung. “By collaborating with MIT and leveraging the SK AI R&D Center as a technology control tower, we aim to forecast next-generation generative AI technology trends, propose innovative business models, and drive commercialization through academic-industrial collaboration.”Alan Lee, chief technology officer of Analog Devices (ADI), highlights how the consortium bridges key knowledge gaps for both his company and the industry at large. “ADI can’t hire a world-leading expert in every single corner case, but the consortium will enable us to access top MIT researchers and get them involved in addressing problems we care about, as we also work together with others in the industry towards common goals,” he says.The consortium will host interactive workshops and discussions to identify and prioritize challenges. “It’s going to be a two-way conversation, with the faculty coming together with industry partners, but also industry partners talking with each other,” says Georgia Perakis, the John C Head III Dean (Interim) of the MIT Sloan School of Management and professor of operations management, operations research and statistics, who serves alongside Huttenlocher as co-chair of the GenAI Dean’s oversight group.Preparing for the AI-enabled workforce of the futureWith AI poised to disrupt industries and create new opportunities, one of the consortium’s core goals is to guide that change in a way that benefits both businesses and society.“When the first commercial digital computers were introduced [the UNIVAC was delivered to the U.S. Census Bureau in 1951], people were worried about losing their jobs,” says Kraska. “And yes, jobs like large-scale, manual data entry clerks and human ‘computers,’ people tasked with doing manual calculations, largely disappeared over time. But the people impacted by those first computers were trained to do other jobs.”The consortium aims to play a key role in preparing the workforce of tomorrow by educating global business leaders and employees on generative AI evolving uses and applications. With the pace of innovation accelerating, leaders face a flood of information and uncertainty.“When it comes to educating leaders about generative AI, it’s about helping them navigate the complexity of the space right now, because there’s so much hype and hundreds of papers published daily,” says Kraska. “The hard part is understanding which developments could actually have a chance of changing the field and which are just tiny improvements. There's a kind of FOMO [fear of missing out] for leaders that we can help reduce.”Defining success: Shared goals for generative AI impactSuccess within the initiative is defined by shared progress, open innovation, and mutual growth. “Consortium participants recognize, I think, that when I share my ideas with you, and you share your ideas with me, we’re both fundamentally better off,” explains Farias. “Progress on generative AI is not zero-sum, so it makes sense for this to be an open-source initiative.”While participants may approach success from different angles, they share a common goal of advancing generative AI for broad societal benefit. “There will be many success metrics,” says Perakis. “We’ll educate students, who will be networking with companies. Companies will come together and learn from each other. Business leaders will come to MIT and have discussions that will help all of us, not just the leaders themselves.”For Analog Devices’ Alan Lee, success is measured in tangible improvements that drive efficiency and product innovation: “For us at ADI, it’s a better, faster quality of experience for our customers, and that could mean better products. It could mean faster design cycles, faster verification cycles, and faster tuning of equipment that we already have or that we’re going to develop for the future. But beyond that, we want to help the world be a better, more efficient place.”Ganesh highlights success through the lens of real-world application. “Success will also be defined by accelerating AI adoption within Tata companies, generating actionable knowledge that can be applied in real-world scenarios, and delivering significant advantages to our customers and stakeholders,” she says.Generative AI is no longer confined to isolated research labs — it’s driving innovation across industries and disciplines. At MIT, the technology has become a campus-wide priority, connecting researchers, students, and industry leaders to solve complex challenges and uncover new opportunities. “It's truly an MIT initiative,” says Farias, “one that’s much larger than any individual or department on campus.”
+Share this news article on:
+X
+Facebook
+LinkedIn
+Reddit
+Print
+Related Links
+MIT Generative AI Impact Consortium
+Related Topics
+Artificial intelligence
+Industry
+Collaboration
+Research
+Funding
+Computer science and technology
+Technology and society
+Open access
+Human-computer interaction
+Ethics
+Labor and jobs
+Privacy
+Open source
+Technology and policy
+Innovation and Entrepreneurship (I&E)
+Semiconductors
+Computer Science and Artificial Intelligence Laboratory (CSAIL)
+Electrical engineering and computer science (EECS)
+School of Architecture and Planning
+School of Engineering
+School of Science
+School of Humanities Arts and Social Sciences
+MIT Sloan School of Management
+MIT Schwarzman College of Computing
+Related Articles
+Explained: Generative AI’s environmental impact
+What do we know about the economics of AI?
+President Sally Kornbluth and OpenAI CEO Sam Altman discuss the future of AI
+Stratospheric safety standards: How aviation could steer regulation of AI in health
+MIT Generative AI Week fosters dialogue across disciplines
+Previous item
+Next item
+More MIT News
+A new take on carbon capture
+Mantel, founded by MIT alumni, developed a system that captures CO2 from factories and power plants while delivering steam to customers.
+Read full story →
+New AI agent learns to use CAD to create 3D objects from sketches
+The virtual VideoCAD tool could boost designers’ productivity and help train engineers learning computer-aided design.
+Read full story →
+An improved way to detach cells from culture surfaces
+The approach could transform large-scale biomanufacturing by enabling automated and contamination-conscious workflows for cell therapies, tissue engineering, and regenerative medicine.
+Read full story →
+The science of consciousness
+Through the MIT Consciousness Club, professors Matthias Michel and Earl Miller are exploring how neurological activity gives rise to human experience.
+Read full story →
+MIT Energy Initiative conference spotlights research priorities amidst a changing energy landscape
+Industry leaders agree collaboration is key to advancing critical technologies.
+Read full story →
+Introducing the MIT-GE Vernova Climate and Energy Alliance
+Five-year collaboration between MIT and GE Vernova aims to accelerate the energy transition and scale new innovations.
+Read full story →
+More news on MIT News homepage →
+More about MIT News at Massachusetts Institute of Technology
+This website is managed by the MIT News Office, part of the Institute Office of Communications.
+News by Schools/College:
+School of Architecture and Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+MIT Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+Resources:
+About the MIT News Office
+MIT News Press Center
+Terms of Use
+Press Inquiries
+Filming Guidelines
+RSS Feeds
+Tools:
+Subscribe to MIT Daily/Weekly
+Subscribe to press releases
+Submit campus news
+Guidelines for campus news contributors
+Guidelines on generative AI
+Massachusetts Institute of Technology
+MIT Top Level Links:
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+Join us in building a better world.
+Massachusetts Institute of Technology77 Massachusetts Avenue, Cambridge, MA, USA
+Recommended Links:
+Visit
+Map (opens in new window)
+Events (opens in new window)
+People (opens in new window)
+Careers (opens in new window)
+Contact
+Privacy
+Accessibility
+Social Media Hub
+MIT on X
+MIT on Facebook
+MIT on YouTube
+MIT on Instagram

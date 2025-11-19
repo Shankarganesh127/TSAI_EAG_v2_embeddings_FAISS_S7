@@ -1,0 +1,144 @@
+Source: https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity
+
+AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.Chart of the WeekRegionsTopicsAuthorsArchiveIMF HomeCredit X-poser/Adobe StockCredit X-poser/Adobe StockEnglishالعربية中文españolрусский日本語françaisArtificial intelligenceAI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.AI will affect almost 40 percent of jobs around the world, replacing some and complementing others. We need a careful balance of policies to tap its potentialKristalina GeorgievaJanuary 14, 2024
+We are on the brink of a technological revolution that
+could jumpstart
+productivity, boost global growth and raise incomes around the
+world. Yet
+it could also replace jobs and deepen inequality.
+The rapid advance of artificial intelligence has captivated
+the world,
+causing both excitement and alarm, and raising important questions
+about
+its potential impact on the global economy. The net effect is difficult
+to
+foresee, as AI will ripple through economies in complex ways. What we can
+say with some confidence is that we will need to come up with a set of
+policies
+to safely leverage the vast potential of AI for the benefit of humanity.
+Reshaping the Nature of Work
+In a new analysis, IMF staff examine the
+potential impact
+of AI on the global labor market. Many studies have predicted
+the
+likelihood that jobs will be replaced by AI. Yet we know that in many cases
+AI is likely to complement human work. The IMF analysis captures both these
+forces.
+The findings are striking: almost 40 percent of global
+employment is
+exposed to AI. Historically, automation and information
+technology have
+tended to affect routine tasks, but one of the things that sets
+AI apart is
+its ability to impact high-skilled jobs. As a result, advanced
+economies
+face greater risks from AI—but also more opportunities to leverage
+its
+benefits—compared with emerging market and developing economies.
+In advanced economies, about 60 percent of jobs may be
+impacted by AI.
+Roughly half the exposed jobs may benefit from AI integration,
+enhancing
+productivity. For the other half, AI applications may execute key
+tasks
+currently performed by humans, which could lower labor demand, leading to
+lower wages and reduced hiring. In the most extreme cases, some of these
+jobs
+may disappear.
+In emerging markets and low-income countries, by
+contrast, AI exposure is
+expected to be 40 percent and 26 percent,
+respectively. These findings
+suggest emerging market and developing economies
+face fewer immediate
+disruptions from AI. At the same time, many of these
+countries don’t have
+the infrastructure or skilled workforces to harness the
+benefits of AI,
+raising the risk that over time the technology could worsen
+inequality
+among nations.
+AI could also affect income and wealth inequality within
+countries. We may
+see polarization within income brackets, with workers who can
+harness AI
+seeing an increase in their productivity and wages—and those who
+cannot
+falling behind. Research shows that AI can help less experienced
+workers enhance their productivity more quickly. Younger workers may find it
+easier to exploit opportunities, while older workers could struggle to
+adapt.
+The effect on labor income will largely depend on the
+extent to which AI
+will complement high-income workers. If AI significantly
+complements
+higher-income workers, it may lead to a disproportionate increase
+in their
+labor income. Moreover, gains in productivity from firms that adopt AI
+will
+likely boost capital returns, which may also favor high earners. Both of
+these phenomena could exacerbate inequality.
+In most scenarios, AI will likely worsen overall
+inequality, a troubling
+trend that policymakers must proactively address to
+prevent the technology
+from further stoking social tensions. It is crucial for
+countries to
+establish comprehensive social safety nets and offer retraining
+programs
+for vulnerable workers. In doing so, we can make the AI transition
+more
+inclusive, protecting livelihoods and curbing inequality.
+An Inclusive AI-Driven World
+AI is being integrated into businesses around the world
+at remarkable
+speed, underscoring the need for policymakers to act.
+To help countries craft the right policies, the IMF has
+developed an AI
+Preparedness Index that measures readiness in areas such as
+digital
+infrastructure, human-capital and labor-market policies, innovation and
+economic integration, and regulation and ethics.
+The human-capital and labor-market policies component,
+for example,
+evaluates elements such as years of schooling and job-market
+mobility, as
+well as the proportion of the population covered by social safety
+nets. The
+regulation and ethics component assesses the adaptability to digital
+business models of a country’s legal framework and the presence of strong
+governance for effective enforcement.
+Using the index, IMF staff assessed the readiness of 125
+countries. The
+findings reveal that wealthier economies, including advanced and
+some
+emerging market economies, tend to be better equipped for AI adoption than
+low-income countries, though there is considerable variation across
+countries.
+Singapore, the United States and Denmark posted the highest
+scores on the
+index, based on their strong results in all four categories
+tracked.
+Guided by the insights from the AI Preparedness Index,
+advanced economies
+should prioritize AI innovation and integration while
+developing robust
+regulatory frameworks. This approach will cultivate a safe
+and responsible
+AI environment, helping maintain public trust. For emerging
+market and
+developing economies, the priority should be laying a strong
+foundation
+through investments in digital infrastructure and a digitally
+competent
+workforce.
+The AI era is upon us, and it is still within our power
+to ensure it brings
+prosperity for all.
+—For more on artificial
+intelligence and the economy, see the
+December issue of Finance
+& Development, the IMF’s quarterly magazine.
+RecentArtificial intelligenceA文AI Needs More Abundant Power Supplies to Keep Driving Economic GrowthMay 13, 2025The power-hungry technology requires policies to help expand electricity supplies, incentivize alternative sources, and help contain price surgesArtificial intelligenceA文How Artificial Intelligence Can Boost Productivity in Latin AmericaMarch 20, 2025Some countries risk missing out on the full economic benefits of AI, but more formal jobs and expanded digital access can helpArtificial intelligenceHow AI Can Help Both Tax Collectors and TaxpayersFebruary 25, 2025New generative AI tools can redefine the relationship between governments and citizens, but strong leadership and safeguards are fundamental.ABOUT THE BLOGIMFBlog is a forum for the views of the International Monetary Fund (IMF) staff and officials on pressing economic and policy issues of the day.
+The IMF, based in Washington D.C., is an organization of 191 countries, working to foster global monetary cooperation and financial stability around the world.
+The views expressed are those of the author(s) and do not necessarily represent the views of the IMF and its Executive Board. Read MoreARTIFICIAL INTELLIGENCEDIGITAL MONEYFINANCIAL SECTOR STABILITYGLOBAL ECONOMYFINANCIAL MARKETFISCAL AFFAIRSMONETARY POLICYPEOPLEIMF HOME PAGE© 2025 INTERNATIONAL MONETARY FUND. ALL RIGHTS RESERVED

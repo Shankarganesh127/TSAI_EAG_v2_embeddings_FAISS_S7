@@ -129,6 +129,51 @@ class SearchAgent:
                 result = await execute_tool(session, self.tools_list, plan)
                 self.log("tool", f"{result.tool_name} -> {str(result.result)[:100]}...")
                 
+                # Auto-fallback: if search_documents returns empty, force web_search
+                if result.tool_name == "search_documents" and isinstance(result.result, list) and len(result.result) == 0:
+                    self.log("fallback", "Local search empty - falling back to web_search")
+                    # Extract the query from the original plan
+                    import re
+                    query_match = re.search(r'query[=:]"?([^"|]+)"?', plan)
+                    if query_match:
+                        web_query = query_match.group(1).strip('"')
+                        self.log("fallback", f"Searching web for: {web_query}")
+                        # Force a web search
+                        result = await execute_tool(session, self.tools_list, f"FUNCTION_CALL: web_search|query={web_query}")
+                        self.log("tool", f"{result.tool_name} -> {str(result.result)[:100]}...")
+                
+                # Force answer if search_documents returned results
+                if result.tool_name == "search_documents" and isinstance(result.result, list) and len(result.result) > 0:
+                    self.log("agent", "Found results in documents - generating final answer")
+                    # Store the results in memory
+                    memory_item = MemoryItem(
+                        text=f"Search results: {result.result[0][:500]}",
+                        type="tool_output",
+                        tool_name=result.tool_name,
+                        user_query=query,
+                        tags=[result.tool_name],
+                        session_id=self.session_id
+                    )
+                    self.memory.add(memory_item)
+                    
+                    # Generate answer using the LLM
+                    from google import genai
+                    answer_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+                    answer_prompt = f"""Based on the following information, provide a detailed summary about: {user_input}
+
+Information found:
+{chr(10).join(result.result[:3])}
+
+Provide a comprehensive answer with key facts and insights. End with: "Do you have any other questions about this topic?"
+"""
+                    answer_response = answer_client.models.generate_content(model="gemini-2.0-flash", contents=answer_prompt)
+                    answer = answer_response.text.strip()
+                    
+                    self.log("agent", f"Answer: {answer[:100]}...")
+                    self.history.append({"role": "assistant", "content": answer, "timestamp": datetime.datetime.now().isoformat()})
+                    self.callback("chat", {"role": "assistant", "content": answer})
+                    break  # Exit the loop immediately
+                
                 # Store result in memory
                 memory_item = MemoryItem(
                     text=f"Tool {result.tool_name} output: {result.result}",
@@ -152,6 +197,63 @@ class SearchAgent:
                 if result.tool_name in ["web_search", "search_documents"]:
                      self.callback("resources", {"type": "search", "data": str(result.result)})
                      search_count += 1
+                
+                # Auto-fetch URLs from web_search results
+                if result.tool_name == "web_search":
+                    import re
+                    # Extract URLs properly - stop at whitespace or newline
+                    urls = re.findall(r'URL:\s*(https?://[^\s\n]+)', str(result.result), re.MULTILINE)
+                    # Clean the URLs - remove any trailing characters that aren't part of URL
+                    clean_urls = []
+                    for url in urls:
+                        # Remove common trailing artifacts
+                        url = url.rstrip('\\n').rstrip('\\r').split('\\n')[0].split('\n')[0]
+                        clean_urls.append(url)
+                    
+                    fetched_count = 0
+                    for url in clean_urls[:3]:  # Fetch first 3 URLs to avoid overwhelming
+                        try:
+                            self.log("fetch", f"Auto-fetching: {url}")
+                            fetch_result = await execute_tool(session, self.tools_list, f"FUNCTION_CALL: fetch_url|url={url}")
+                            fetched_count += 1
+                        except Exception as e:
+                            self.log("fetch", f"Failed to fetch {url}: {e}")
+                    
+                    # Trigger FAISS re-indexing if we fetched new content
+                    if fetched_count > 0:
+                        try:
+                            self.log("index", "Re-indexing documents...")
+                            await execute_tool(session, self.tools_list, "FUNCTION_CALL: trigger_process_documents")
+                            self.log("index", "Indexing complete - now generating answer from indexed data")
+                            
+                            # Now search the newly indexed documents
+                            import re
+                            query_match = re.search(r'query[=:]"?([^"|]+)"?', plan)
+                            if query_match:
+                                search_query = query_match.group(1).strip('"')
+                                search_result = await execute_tool(session, self.tools_list, f"FUNCTION_CALL: search_documents|query={search_query}")
+                                
+                                if isinstance(search_result.result, list) and len(search_result.result) > 0:
+                                    # Generate comprehensive answer
+                                    from google import genai
+                                    answer_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+                                    answer_prompt = f"""Based on the following information, provide a detailed summary about: {user_input}
+
+Information found:
+{chr(10).join(search_result.result[:3])}
+
+Provide a comprehensive answer with key facts and insights. End with: "Do you have any other questions about this topic?"
+"""
+                                    answer_response = answer_client.models.generate_content(model="gemini-2.0-flash", contents=answer_prompt)
+                                    answer = answer_response.text.strip()
+                                    
+                                    self.log("agent", f"Answer: {answer[:100]}...")
+                                    self.history.append({"role": "assistant", "content": answer, "timestamp": datetime.datetime.now().isoformat()})
+                                    self.callback("chat", {"role": "assistant", "content": answer})
+                                    return  # Exit process_request completely
+                                    
+                        except Exception as e:
+                            self.log("index", f"Indexing failed: {e}")
                 
                 # If open_url was called, extract URL and notify frontend
                 if result.tool_name == "open_url" and isinstance(result.result, str) and result.result.startswith("OPEN_URL:"):

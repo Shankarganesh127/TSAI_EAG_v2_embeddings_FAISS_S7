@@ -1,0 +1,206 @@
+Source: https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117
+
+Explained: Generative AI’s environmental impact | MIT News | Massachusetts Institute of Technology
+Skip to content ↓
+Massachusetts Institute of Technology
+MIT Top Menu↓
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+More ↓
+Search MIT
+Search websites, locations, and people
+See More Results
+Suggestions or feedback?
+MIT News | Massachusetts Institute of Technology - On Campus and Around the world
+Subscribe to MIT News newsletter
+Browse
+Enter keywords to search for news articles:
+Submit
+Browse By
+Topics
+View All →
+Explore:
+Machine learning
+Sustainability
+Startups
+Black holes
+Classes and programs
+Departments
+View All →
+Explore:
+Aeronautics and Astronautics
+Brain and Cognitive Sciences
+Architecture
+Political Science
+Mechanical Engineering
+Centers, Labs, & Programs
+View All →
+Explore:
+Abdul Latif Jameel Poverty Action Lab (J-PAL)
+Picower Institute for Learning and Memory
+Media Lab
+Lincoln Laboratory
+Schools
+School of Architecture + Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+View all news coverage of MIT in the media →
+Listen to audio content from MIT News →
+Subscribe to MIT newsletter →
+Close
+Breadcrumb
+MIT News
+Explained: Generative AI’s environmental impact
+Explained: Generative AI’s environmental impact
+Rapid development and deployment of powerful generative AI models comes with environmental consequences, including increased electricity demand and water consumption.
+Adam Zewe
+|
+MIT News
+Publication Date:
+January 17, 2025
+Press Inquiries
+Press Contact:
+Melanie
+Grados
+Email:
+mgrados@mit.edu
+Phone:
+617-253-1682
+MIT News Office
+Media Download
+↓ Download Image
+Caption:
+MIT News explores the environmental and sustainability implications of generative AI technologies and applications.
+Credits:
+Image: iStock; edited by MIT News
+*Terms of Use:
+Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a
+Creative Commons Attribution Non-Commercial No Derivatives license.
+You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided
+below, credit the images to "MIT."
+Close
+Caption:
+MIT News explores the environmental and sustainability implications of generative AI technologies and applications.
+Credits:
+Image: iStock; edited by MIT News
+Previous image
+Next image
+In a two-part series, MIT News explores the environmental implications of generative AI. In this article, we look at why this technology is so resource-intensive. A second piece will investigate what experts are doing to reduce genAI’s carbon footprint and other impacts.The excitement surrounding potential benefits of generative AI, from improving worker productivity to advancing scientific research, is hard to ignore. While the explosive growth of this new technology has enabled rapid deployment of powerful models in many industries, the environmental consequences of this generative AI “gold rush” remain difficult to pin down, let alone mitigate.The computational power required to train generative AI models that often have billions of parameters, such as OpenAI’s GPT-4, can demand a staggering amount of electricity, which leads to increased carbon dioxide emissions and pressures on the electric grid.Furthermore, deploying these models in real-world applications, enabling millions to use generative AI in their daily lives, and then fine-tuning the models to improve their performance draws large amounts of energy long after a model has been developed.Beyond electricity demands, a great deal of water is needed to cool the hardware used for training, deploying, and fine-tuning generative AI models, which can strain municipal water supplies and disrupt local ecosystems. The increasing number of generative AI applications has also spurred demand for high-performance computing hardware, adding indirect environmental impacts from its manufacture and transport.“When we think about the environmental impact of generative AI, it is not just the electricity you consume when you plug the computer in. There are much broader consequences that go out to a system level and persist based on actions that we take,” says Elsa A. Olivetti, professor in the Department of Materials Science and Engineering and the lead of the Decarbonization Mission of MIT’s new Climate Project.Olivetti is senior author of a 2024 paper, “The Climate and Sustainability Implications of Generative AI,” co-authored by MIT colleagues in response to an Institute-wide call for papers that explore the transformative potential of generative AI, in both positive and negative directions for society.Demanding data centersThe electricity demands of data centers are one major factor contributing to the environmental impacts of generative AI, since data centers are used to train and run the deep learning models behind popular tools like ChatGPT and DALL-E.A data center is a temperature-controlled building that houses computing infrastructure, such as servers, data storage drives, and network equipment. For instance, Amazon has more than 100 data centers worldwide, each of which has about 50,000 servers that the company uses to support cloud computing services.While data centers have been around since the 1940s (the first was built at the University of Pennsylvania in 1945 to support the first general-purpose digital computer, the ENIAC), the rise of generative AI has dramatically increased the pace of data center construction.“What is different about generative AI is the power density it requires. Fundamentally, it is just computing, but a generative AI training cluster might consume seven or eight times more energy than a typical computing workload,” says Noman Bashir, lead author of the impact paper, who is a Computing and Climate Impact Fellow at MIT Climate and Sustainability Consortium (MCSC) and a postdoc in the Computer Science and Artificial Intelligence Laboratory (CSAIL).Scientists have estimated that the power requirements of data centers in North America increased from 2,688 megawatts at the end of 2022 to 5,341 megawatts at the end of 2023, partly driven by the demands of generative AI. Globally, the electricity consumption of data centers rose to 460 terawatt-hours in 2022. This would have made data centers the 11th largest electricity consumer in the world, between the nations of Saudi Arabia (371 terawatt-hours) and France (463 terawatt-hours), according to the Organization for Economic Co-operation and Development.By 2026, the electricity consumption of data centers is expected to approach 1,050 terawatt-hours (which would bump data centers up to fifth place on the global list, between Japan and Russia).While not all data center computation involves generative AI, the technology has been a major driver of increasing energy demands.“The demand for new data centers cannot be met in a sustainable way. The pace at which companies are building new data centers means the bulk of the electricity to power them must come from fossil fuel-based power plants,” says Bashir.The power needed to train and deploy a model like OpenAI’s GPT-3 is difficult to ascertain. In a 2021 research paper, scientists from Google and the University of California at Berkeley estimated the training process alone consumed 1,287 megawatt hours of electricity (enough to power about 120 average U.S. homes for a year), generating about 552 tons of carbon dioxide.While all machine-learning models must be trained, one issue unique to generative AI is the rapid fluctuations in energy use that occur over different phases of the training process, Bashir explains.Power grid operators must have a way to absorb those fluctuations to protect the grid, and they usually employ diesel-based generators for that task.Increasing impacts from inferenceOnce a generative AI model is trained, the energy demands don’t disappear.Each time a model is used, perhaps by an individual asking ChatGPT to summarize an email, the computing hardware that performs those operations consumes energy. Researchers have estimated that a ChatGPT query consumes about five times more electricity than a simple web search.“But an everyday user doesn’t think too much about that,” says Bashir. “The ease-of-use of generative AI interfaces and the lack of information about the environmental impacts of my actions means that, as a user, I don’t have much incentive to cut back on my use of generative AI.”With traditional AI, the energy usage is split fairly evenly between data processing, model training, and inference, which is the process of using a trained model to make predictions on new data. However, Bashir expects the electricity demands of generative AI inference to eventually dominate since these models are becoming ubiquitous in so many applications, and the electricity needed for inference will increase as future versions of the models become larger and more complex.Plus, generative AI models have an especially short shelf-life, driven by rising demand for new AI applications. Companies release new models every few weeks, so the energy used to train prior versions goes to waste, Bashir adds. New models often consume more energy for training, since they usually have more parameters than their predecessors.While electricity demands of data centers may be getting the most attention in research literature, the amount of water consumed by these facilities has environmental impacts, as well.Chilled water is used to cool a data center by absorbing heat from computing equipment. It has been estimated that, for each kilowatt hour of energy a data center consumes, it would need two liters of water for cooling, says Bashir.“Just because this is called ‘cloud computing’ doesn’t mean the hardware lives in the cloud. Data centers are present in our physical world, and because of their water usage they have direct and indirect implications for biodiversity,” he says.The computing hardware inside data centers brings its own, less direct environmental impacts.While it is difficult to estimate how much power is needed to manufacture a GPU, a type of powerful processor that can handle intensive generative AI workloads, it would be more than what is needed to produce a simpler CPU because the fabrication process is more complex. A GPU’s carbon footprint is compounded by the emissions related to material and product transport.There are also environmental implications of obtaining the raw materials used to fabricate GPUs, which can involve dirty mining procedures and the use of toxic chemicals for processing.Market research firm TechInsights estimates that the three major producers (NVIDIA, AMD, and Intel) shipped 3.85 million GPUs to data centers in 2023, up from about 2.67 million in 2022. That number is expected to have increased by an even greater percentage in 2024.The industry is on an unsustainable path, but there are ways to encourage responsible development of generative AI that supports environmental objectives, Bashir says.He, Olivetti, and their MIT colleagues argue that this will require a comprehensive consideration of all the environmental and societal costs of generative AI, as well as a detailed assessment of the value in its perceived benefits.“We need a more contextual way of systematically and comprehensively understanding the implications of new developments in this space. Due to the speed at which there have been improvements, we haven’t had a chance to catch up with our abilities to measure and understand the tradeoffs,” Olivetti says.
+Share this news article on:
+X
+Facebook
+LinkedIn
+Reddit
+Print
+Press Mentions
+WiredNoman Bashir, a fellow with the MIT Climate and Sustainability Consortium and a postdoc at CSAIL, speaks with Wired reporter Molly Taft about AI and energy consumption. Bashir explains that how quickly a model answers a question has a big impact on its energy use. “The goal is to provide all of this inference the quickest way possible so that you don’t leave their platform,” Bashir says. “If ChatGPT suddenly starts giving you a response after five minutes, you will go to some other tool that is giving you an immediate response.”
+Full story via Wired →
+Previous item
+Next item
+Related Links
+Noman BashirElsa OlivettiMIT Climate and Sustainability ConsortiumComputer Science and Artificial Intelligence LaboratoryDepartment of Electrical Engineering and Computer ScienceDepartment of Materials Science and EngineeringSchool of EngineeringMIT Schwarzman College of Computing
+Related Topics
+Sustainable computing
+Artificial intelligence
+Machine learning
+Algorithms
+Human-computer interaction
+Data
+Energy
+Environment
+Emissions
+Sustainability
+Cleaner industry
+Water
+Computer science and technology
+Climate
+Computer Science and Artificial Intelligence Laboratory (CSAIL)
+Electrical engineering and computer science (EECS)
+DMSE
+School of Engineering
+MIT Schwarzman College of Computing
+Related Articles
+Q&A: The climate impact of generative AI
+Liftoff: The Climate Project at MIT takes flight
+New solar projects will grow renewable energy generation for four major campus buildings
+3 Questions: Can we secure a sustainable supply of nickel?
+Explained: Generative AI
+Previous item
+Next item
+More MIT News
+A new take on carbon capture
+Mantel, founded by MIT alumni, developed a system that captures CO2 from factories and power plants while delivering steam to customers.
+Read full story →
+New AI agent learns to use CAD to create 3D objects from sketches
+The virtual VideoCAD tool could boost designers’ productivity and help train engineers learning computer-aided design.
+Read full story →
+An improved way to detach cells from culture surfaces
+The approach could transform large-scale biomanufacturing by enabling automated and contamination-conscious workflows for cell therapies, tissue engineering, and regenerative medicine.
+Read full story →
+The science of consciousness
+Through the MIT Consciousness Club, professors Matthias Michel and Earl Miller are exploring how neurological activity gives rise to human experience.
+Read full story →
+MIT Energy Initiative conference spotlights research priorities amidst a changing energy landscape
+Industry leaders agree collaboration is key to advancing critical technologies.
+Read full story →
+Introducing the MIT-GE Vernova Climate and Energy Alliance
+Five-year collaboration between MIT and GE Vernova aims to accelerate the energy transition and scale new innovations.
+Read full story →
+More news on MIT News homepage →
+More about MIT News at Massachusetts Institute of Technology
+This website is managed by the MIT News Office, part of the Institute Office of Communications.
+News by Schools/College:
+School of Architecture and Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+MIT Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+Resources:
+About the MIT News Office
+MIT News Press Center
+Terms of Use
+Press Inquiries
+Filming Guidelines
+RSS Feeds
+Tools:
+Subscribe to MIT Daily/Weekly
+Subscribe to press releases
+Submit campus news
+Guidelines for campus news contributors
+Guidelines on generative AI
+Massachusetts Institute of Technology
+MIT Top Level Links:
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+Join us in building a better world.
+Massachusetts Institute of Technology77 Massachusetts Avenue, Cambridge, MA, USA
+Recommended Links:
+Visit
+Map (opens in new window)
+Events (opens in new window)
+People (opens in new window)
+Careers (opens in new window)
+Contact
+Privacy
+Accessibility
+Social Media Hub
+MIT on X
+MIT on Facebook
+MIT on YouTube
+MIT on Instagram

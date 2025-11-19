@@ -73,7 +73,7 @@ Input Summary:
 - FINAL_ANSWER: [42]
 
 ✅ Examples:
-- User asks: "What’s the relationship between Cricket and Sachin Tendulkar"
+- User asks: "What's the relationship between Cricket and Sachin Tendulkar"
   - FUNCTION_CALL: search_documents|query="relationship between Cricket and Sachin Tendulkar"
   - [receives a detailed document]
   - FINAL_ANSWER: [Sachin Tendulkar is widely regarded as the "God of Cricket" due to his exceptional skills, longevity, and impact on the sport in India. He is the leading run-scorer in both Test and ODI cricket, and the first to score 100 centuries in international cricket. His influence extends beyond his statistics, as he is seen as a symbol of passion, perseverance, and a national icon. ]
@@ -81,16 +81,18 @@ Input Summary:
 
 IMPORTANT:
 - 🚫 Do NOT invent tools. Use only the tools listed below.
+- 🔍 **Search documents FIRST** using 'search_documents' before doing web_search.
+- 📭 **If search_documents returns empty [], immediately use 'web_search'** instead.
+- ✅ **If search_documents returns useful results, generate FINAL_ANSWER immediately**. Do NOT search again.
 - 📄 If the question may relate to factual knowledge, use the 'search_documents' tool to look for the answer.
 - 🧮 If the question is mathematical or needs calculation, use the appropriate math tool.
 - 🔗 If the user asks for "proof", "evidence", "show me", or "source", AND you have a relevant URL from previous searches, use the 'open_url' tool to open that URL in their browser.
 - 🤖 If the previous tool output already contains factual information, DO NOT search again. Instead, summarize the relevant facts and respond with: FINAL_ANSWER: [your answer]
-- Only repeat `search_documents` if the last result was irrelevant or empty.
 - ❌ Do NOT repeat function calls with the same parameters.
 - ❌ Do NOT output unstructured responses.
 - 🧠 Think before each step. Verify intermediate results mentally before proceeding.
 - 💥 If unsure or no tool fits, skip to FINAL_ANSWER: [unknown]
-- ✅ You have only 3 attempts. Final attempt must be FINAL_ANSWER]
+- ✅ You MUST provide FINAL_ANSWER after at most 2 tool calls]
 """
 
     try:

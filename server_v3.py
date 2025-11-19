@@ -136,11 +136,20 @@ def fetch_url(url: str) -> str:
 @mcp.tool()
 def search_documents(query: str) -> list[str]:
     """Search for relevant content from uploaded documents."""
-    ensure_faiss_ready()
     mcp_log("SEARCH", f"Query: {query}")
+    
+    # Check if index exists, return empty if not
+    if not (ROOT / "faiss_index" / "index.bin").exists():
+        mcp_log("SEARCH", "No index found - returning empty results")
+        return []
+    
     try:
         index = faiss.read_index(str(ROOT / "faiss_index" / "index.bin"))
         metadata = json.loads((ROOT / "faiss_index" / "metadata.json").read_text())
+        
+        if index.ntotal == 0:
+            return []
+            
         query_vec = get_embedding(query).reshape(1, -1)
         D, I = index.search(query_vec, k=5)
         results = []
@@ -150,7 +159,8 @@ def search_documents(query: str) -> list[str]:
                 results.append(f"{data['chunk']}\n[Source: {data['doc']}, ID: {data['chunk_id']}]")
         return results
     except Exception as e:
-        return [f"ERROR: Failed to search: {str(e)}"]
+        mcp_log("ERROR", f"Search failed: {str(e)}")
+        return []  # Return empty instead of error
 
 @mcp.tool()
 def trigger_process_documents() -> str:
@@ -273,7 +283,12 @@ def process_documents():
     def file_hash(path):
         return hashlib.md5(Path(path).read_bytes()).hexdigest()
 
-    CACHE_META = json.loads(CACHE_FILE.read_text()) if CACHE_FILE.exists() else {}
+    try:
+        CACHE_META = json.loads(CACHE_FILE.read_text()) if CACHE_FILE.exists() and CACHE_FILE.stat().st_size > 0 else {}
+    except json.JSONDecodeError:
+        mcp_log("WARNING", "Cache file corrupted, starting fresh")
+        CACHE_META = {}
+        
     metadata = json.loads(METADATA_FILE.read_text()) if METADATA_FILE.exists() else []
     index = faiss.read_index(str(INDEX_FILE)) if INDEX_FILE.exists() else None
     all_embeddings = []
