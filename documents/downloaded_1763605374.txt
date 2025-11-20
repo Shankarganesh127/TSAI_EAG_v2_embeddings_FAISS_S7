@@ -1,0 +1,165 @@
+Source: https://www.geeksforgeeks.org/maths/algebra/
+
+Algebra in Math - Definition, Branches, Basics and Examples - GeeksforGeeks
+Skip to content
+Interview PrepDSAInterview CornerAptitude & ReasoningPractice Coding ProblemsAll CoursesTutorialsPythonJavaML & Data ScienceProgramming LanguagesWeb DevelopmentCS SubjectsDevOpsSoftware and ToolsSchool LearningTracksLanguagesPythonCC++JavaAdvanced JavaSQLJavaScriptC#Interview PreparationGfG 160GfG 360System DesignCore SubjectsInterview QuestionsInterview PuzzlesAptitude and ReasoningProduct ManagementComputer Organisation and ArchitectureData SciencePythonData AnalyticsComplete Data ScienceGen AIAgentic AIDev SkillsFull-Stack Web DevDevOpsSoftware TestingCyberSecurityNextJSGitToolsComputer FundamentalsAI ToolsMS Excel & Google SheetsMS Word & Google DocsMathsMaths For Computer ScienceEngineering MathematicsSchool Maths
+Number System and ArithmeticAlgebraSet TheoryProbabilityStatisticsGeometryCalculusLogarithmsMensurationMatricesTrigonometryMathematics
+Sign In
+▲
+Open In App
+Algebra in Math - Definition, Branches, Basics and Examples
+Last Updated :
+23 Jul, 2025
+Comments
+Improve
+Suggest changes
+13 Likes
+Like
+Report
+Algebra is the branch of mathematics with the following properties.Deals with symbols (or variables) and rules for manipulating these symbols. Elementary (Taught in Schools) Algebra mainly deals with variables and operations like sum, power, subtraction, etc. For example,
+x + 10 = 100, x2 - 2x + 1 = 5 and x + y = 20. Abstract Algebra (Taught in Colleges) deals with groups, rings, and fields instead of normal variables (representing numbers).In this article, we are mainly going to focus on Elementary algebra.Example: A father is 30 years older than his son. The combined age of both father and son is 60 years. You are asked to find the individual ages of the father and the son.Real-life Equation:Let x represent the son's age.The father's age will then be x + 30, since the father is 30 years older than the son.The sum of their ages is 60, so the equation becomes: x + (x + 30) = 60Algebraic Equation: 2x + 30 = 60.Algebra for Beginners & School StudentsThis section covers key algebra concepts, including expressions, equations, operations, and methods for solving linear and quadratic equations, along with polynomials and factorization.Basics of AlgebraBranches of AlgebraAlgebraic ExpressionsAlgebraic EquationsOne-step EquationsExpression and EquationsAlgebraic Operations & PropertiesLinear equation in one VariableLinear Equation in Two VariablesPair of Linear Equation in Two VariablesSolving Pair of Linear Equation in Two VariablesSubstitution MethodElimination MethodCross Multiplication MethodQuadratic EquationsQuadratic FormulaAlgebraic IdentitiesPolynomials Degree of PolynomialFactorization of PolynomialZeroes of a PolynomialFactor Theorem and Remainder Theorem Linear Inequalities Algebra vs CalculusAlgebra for Aptitude PreparationThis section covers key algebra formulas and tricks to boost your aptitude skills and improve exam performance.Algebra FormulasAlgebra Tricks for AptitudeAlgebra Aptitude Questions & AnswersAlgebra Practice QuestionsThis section offers a variety of algebra practice questions at different difficulty levels, including linear and quadratic equations, to help you sharpen your skills and prepare for exams.Algebra Practice Questions (Easy Level)Algebra Practice Questions (Medium Level)Algebra Practice Questions (Hard Level)Practice Problems on Linear Equation in Two VariablesPractice Questions on Quadratic EquationsAlgebra Practice Quiz Algebra for ProgrammersThis section focuses on algebra concepts for programmers, including coding solutions for linear and quadratic equations, finding missing values, and determining the maximum and minimum values of algebraic expressions.Find number of solutions of a linear equation of n variablesProgram to find number of solutions in Quadratic EquationProgram to find the Roots of Quadratic equationFind the missing value from the given equation a + b = cMaximum and Minimum Values of an Algebraic Expression
+Create Quiz
+Algebra
+Algebra
+How to solve Quadratic Equations?
+Homogeneous Linear Equations
+Solving Cubic Equations
+Binomial Theorem | Formula, Proof, Binomial Expansion and Examples
+Principle of Mathematical Induction
+Comment
+A
+abhishek1
+Follow
+13
+Improve
+A
+abhishek1
+Follow
+13
+Improve
+Article Tags :
+Mathematics
+School Learning
+Class 10
+Algebra
+Maths-Class-8
+Maths-Class-9
+Maths-Class-10
+Maths-Class-11
+Maths-Class-12
+Tutorials
+Maths-Categories
+Math Tutorials
++8 More
+Explore
+Maths
+4 min read
+Basic ArithmeticWhat are Numbers?
+15+ min read
+Arithmetic Operations
+9 min read
+Fractions - Definition, Types and Examples
+7 min read
+What are Decimals?
+10 min read
+Exponents
+9 min read
+Percentage
+4 min read
+AlgebraVariable in Maths
+5 min read
+Polynomials| Degree | Types |
+Properties and Examples
+9 min read
+Coefficient
+8 min read
+Algebraic Identities
+14 min read
+Properties of Algebraic Operations
+3 min read
+GeometryLines and Angles
+9 min read
+Geometric Shapes in Maths
+2 min read
+Area and Perimeter of Shapes | Formula and Examples
+10 min read
+Surface Areas and Volumes
+10 min read
+Points, Lines and Planes
+12 min read
+Coordinate Axes and Coordinate Planes in 3D space
+6 min read
+Trigonometry & Vector AlgebraTrigonometric Ratios
+4 min read
+Trigonometric Equations | Definition, Examples & How to Solve
+9 min read
+Trigonometric Identities
+7 min read
+Trigonometric Functions
+6 min read
+Inverse Trigonometric Functions
+8 min read
+Inverse Trigonometric Identities
+9 min read
+CalculusIntroduction to Differential Calculus
+6 min read
+Limits in Calculus
+11 min read
+Continuity of Functions
+10 min read
+Differentiation
+2 min read
+Differentiability of Functions
+9 min read
+Integration
+3 min read
+Probability and StatisticsBasic Concepts of Probability
+6 min read
+Bayes' Theorem
+13 min read
+Probability Distribution - Function, Formula, Table
+11 min read
+Descriptive Statistic
+5 min read
+What is Inferential Statistics?
+5 min read
+Measures of Central Tendency in Statistics
+9 min read
+Set Theory
+3 min read
+PracticeNCERT Solutions for Class 8 to 12
+7 min read
+RD Sharma Class 8 Solutions for Maths: Chapter Wise PDF
+5 min read
+RD Sharma Class 9 Solutions
+10 min read
+RD Sharma Class 10 Solutions
+9 min read
+RD Sharma Class 11 Solutions for Maths
+13 min read
+RD Sharma Class 12 Solutions for Maths
+13 min read
+Like
+Corporate & Communications Address:
+A-143, 7th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)
+Registered Address:
+K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305
+CompanyAbout UsLegalPrivacy PolicyContact UsAdvertise with usGFG Corporate SolutionCampus Training ProgramExplorePOTDJob-A-ThonBlogsNation Skill UpTutorialsProgramming LanguagesDSAWeb TechnologyAI, ML & Data ScienceDevOpsCS Core SubjectsInterview PreparationSoftware and ToolsCoursesIBM CertificationDSA and PlacementsWeb DevelopmentProgramming LanguagesDevOps & CloudGATETrending TechnologiesVideosDSAPythonJavaC++Web DevelopmentData ScienceCS SubjectsPreparation CornerInterview CornerAptitudePuzzlesGfG 160System Design
+@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved
+Improvement
+Suggest changes
+Suggest Changes
+Help us improve. Share your suggestions to enhance the article. Contribute your expertise and make a difference in the GeeksforGeeks portal.
+Create Improvement
+Enhance the article with your expertise. Contribute to the GeeksforGeeks community and help create better learning resources for all.
+Suggest Changes
+min 4 words, max Words Limit:1000
+Thank You!
+Your suggestions are valuable to us.
+What kind of Experience do you want to share?
+Interview Experiences
+Admission Experiences
+Career Journeys
+Work Experiences
+Campus Experiences
+Competitive Exam Experiences

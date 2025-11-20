@@ -1,87 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search Agent V2</title>
+    <title>Search Agent V2 - AI Research Assistant</title>
     <link rel="stylesheet" href="/static/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+        rel="stylesheet">
 </head>
+
 <body>
-    <div class="container">
-        <!-- Sidebar / Chat Area -->
-        <div class="sidebar">
-            <div class="header">
-                <h1>Search Agent</h1>
-                <div class="status-indicator" id="connection-status">Disconnected</div>
-            </div>
-            
-            <div class="chat-container" id="chat-container">
-                <div class="message system">
-                    Welcome! Enter a topic to start researching.
+    <div class="app-container">
+        <!-- Left Sidebar - Agent Layers -->
+        <aside class="left-sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <div class="logo-icon">🤖</div>
+                    <h2>Agent Layers</h2>
                 </div>
             </div>
 
-            <div class="input-area">
-                <input type="text" id="user-input" placeholder="Enter topic or question..." autocomplete="off">
-                <button id="send-btn">Send</button>
-            </div>
-            
-            <div class="controls">
-                <a href="/download" class="btn secondary" target="_blank">Download Report</a>
-            </div>
-        </div>
-
-        <!-- Main Dashboard -->
-        <div class="main-content">
-            <!-- Layers Visualization -->
-            <div class="section layers-section">
-                <h2>Agent Layers</h2>
-                <div class="layers-grid">
-                    <div class="layer-card" id="layer-perception">
-                        <div class="layer-icon">👁️</div>
+            <div class="layers-vertical">
+                <div class="layer-card" id="layer-perception">
+                    <div class="layer-icon">👁️</div>
+                    <div class="layer-info">
                         <h3>Perception</h3>
                         <div class="layer-status">Idle</div>
-                        <div class="layer-details"></div>
                     </div>
-                    <div class="layer-card" id="layer-memory">
-                        <div class="layer-icon">🧠</div>
+                    <div class="layer-details"></div>
+                </div>
+                <div class="layer-card" id="layer-memory">
+                    <div class="layer-icon">🧠</div>
+                    <div class="layer-info">
                         <h3>Memory</h3>
                         <div class="layer-status">Idle</div>
-                        <div class="layer-details"></div>
                     </div>
-                    <div class="layer-card" id="layer-decision">
-                        <div class="layer-icon">⚖️</div>
+                    <div class="layer-details"></div>
+                </div>
+                <div class="layer-card" id="layer-decision">
+                    <div class="layer-icon">⚖️</div>
+                    <div class="layer-info">
                         <h3>Decision</h3>
                         <div class="layer-status">Idle</div>
-                        <div class="layer-details"></div>
                     </div>
-                    <div class="layer-card" id="layer-action">
-                        <div class="layer-icon">⚡</div>
+                    <div class="layer-details"></div>
+                </div>
+                <div class="layer-card" id="layer-action">
+                    <div class="layer-icon">⚡</div>
+                    <div class="layer-info">
                         <h3>Action</h3>
                         <div class="layer-status">Idle</div>
-                        <div class="layer-details"></div>
+                    </div>
+                    <div class="layer-details"></div>
+                </div>
+            </div>
+
+            <!-- Resources Section in Sidebar -->
+            <div class="sidebar-resources">
+                <h3>Resources</h3>
+                <div class="resources-list" id="resources-grid">
+                    <!-- Resource items will appear here -->
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Center Content -->
+        <main class="main-center">
+            <!-- Top Header -->
+            <header class="top-header">
+                <div class="header-content">
+                    <h1>🔍 AI Search Agent</h1>
+                    <div class="header-actions">
+                        <div class="status-indicator" id="connection-status">
+                            <span class="status-dot"></span>
+                            <span class="status-text">Disconnected</span>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </header>
 
-            <!-- Live Logs -->
-            <div class="section logs-section">
-                <h2>Live Logs</h2>
+            <!-- Chat Section -->
+            <section class="chat-section">
+                <div class="chat-wrapper">
+                    <div class="chat-header">
+                        <h2>💬 Conversation</h2>
+                        <a href="/download" class="download-btn" target="_blank">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="7 10 12 15 17 10"></polyline>
+                                <line x1="12" y1="15" x2="12" y2="3"></line>
+                            </svg>
+                            Download Report
+                        </a>
+                    </div>
+
+                    <div class="chat-container" id="chat-container">
+                        <div class="message system">
+                            👋 Welcome! Enter a topic to start researching.
+                        </div>
+                    </div>
+
+                    <div class="input-area">
+                        <input type="text" id="user-input" placeholder="Ask anything or enter a research topic..."
+                            autocomplete="off">
+                        <button id="send-btn">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <line x1="22" y1="2" x2="11" y2="13"></line>
+                                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                            </svg>
+                            Send
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Live Logs Section -->
+            <section class="logs-section">
+                <div class="section-header">
+                    <h2>📊 Live Activity Logs</h2>
+                    <div class="log-controls">
+                        <button class="log-btn" onclick="document.getElementById('terminal-logs').innerHTML = ''">
+                            Clear
+                        </button>
+                    </div>
+                </div>
                 <div class="terminal" id="terminal-logs">
-                    <!-- Logs will appear here -->
+                    <div class="log-entry">
+                        <span class="log-time">--:--:--</span>
+                        <span class="log-stage">SYSTEM</span>
+                        <span class="log-message">Waiting for connection...</span>
+                    </div>
                 </div>
-            </div>
-
-            <!-- Resources -->
-            <div class="section resources-section">
-                <h2>Collected Resources</h2>
-                <div class="resources-grid" id="resources-grid">
-                    <!-- Resource cards will appear here -->
-                </div>
-            </div>
-        </div>
+            </section>
+        </main>
     </div>
     <script src="/static/script.js"></script>
 </body>
+
 </html>
